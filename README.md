@@ -7,7 +7,8 @@ i'm exited to continue learning and growing in the field and i'm always open to 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patel_anshj1022) [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/Ansh Patel/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patel_anshj1022) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ansh%20Patel-blue?logo=linkedin)](https://www.linkedin.com/in/Ansh-Patel/)
+
  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Inevitable_learner_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshjpatel2005@gmail.com) 
 
 # 💻 Tech Stack:
