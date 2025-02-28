@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ansh Patel a passionate web developer.I've honed my skills in web development through a variety of projects.From building own portfolio websites to designing websites using many languages
+I'm Ansh Patel a passionate web developer. I've honed my skills in web development through a variety of projects.From building own portfolio websites to designing websites using many languages
 
 i'm exited to continue learning and growing in the field and i'm always open to new projects and collaborations.
 
