@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Ansh Patel a passionate web developer. dedicated to pushing the boundaries of what's possible in software development. My journey involves crafting elegant solutions to complex problems while staying at the forefront of technological advancement.
+I'm Ansh Patel a passionate web developer.
+dedicated to pushing the boundaries of what's possible in software development. My journey involves crafting elegant solutions to complex problems while staying at the forefront of technological advancement.
 
 i'm exited to continue learning and growing in the field and i'm always open to new projects and collaborations.
 
